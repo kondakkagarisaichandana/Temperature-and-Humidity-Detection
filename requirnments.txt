@@ -1,0 +1,5 @@
+# Arduino Libraries Required
+
+DHT sensor library by Adafruit
+ESP8266WiFi library
+Blynk library

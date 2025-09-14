@@ -1,0 +1,19 @@
+# Compiled object files
+*.o
+*.bin
+*.elf
+
+# Arduino IDE build folders
+*.arduino_build/
+*.arduino_save/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Backup files
+*~
+*.bak
